@@ -1,0 +1,16 @@
+body, header, h1, h2, ol, ul, input, img, figcaption {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font: inherit;
+}
+
+body{
+    line-height: 1.5;
+}
+ol, ul {
+    list-style: none;
+}
+img {
+    width: 100%;
+}
